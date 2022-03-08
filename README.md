@@ -16,3 +16,9 @@ Nexus Mod:
 Manually: 
 - extract the files to the "Skyrim Special Edition/Data" folder
 - replace the JaxonzRenamer files when asked to (jaxonzrenamer.psc in scripts/source and jaxonzrenamer.pex in scripts)
+
+
+## How it works
+
+This adds the posibility to rename an object selected by console (you can still rename as before too).
+Just open the console, click on the target, close the console, type the renaming key and rename.
