@@ -1,4 +1,4 @@
-Please find the mod on Nexus: https://www.nexusmods.com/skyrimspecialedition/mods/64702
+Please find the fix on Nexus: https://www.nexusmods.com/skyrimspecialedition/mods/64702
 
 
 
