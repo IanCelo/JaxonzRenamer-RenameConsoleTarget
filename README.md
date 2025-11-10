@@ -1,3 +1,8 @@
+Please find the mod on Nexus: https://www.nexusmods.com/skyrimspecialedition/mods/64702
+
+
+
+
 # JaxonzRenamerFollowerFix
 
 A simple fix to JaxonzRenamer bug when renamed follower would lose their name and the ability to be talked to and interact with.
